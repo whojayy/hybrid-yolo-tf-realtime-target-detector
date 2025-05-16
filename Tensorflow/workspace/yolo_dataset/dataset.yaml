@@ -1,0 +1,5 @@
+path: /Users/jay/Developer/final_prime/clone/TFODCourse/TFOD/Tensorflow/workspace/yolo_dataset
+train: train/images
+val: val/images
+nc: 4
+names: ['ThumbsUp', 'ThumbsDown', 'ThankYou', 'LiveLong']

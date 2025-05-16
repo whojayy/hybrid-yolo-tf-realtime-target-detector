@@ -1,0 +1,33 @@
+<annotation>
+  <folder></folder>
+  <filename>thumbsdown.9f0304b2-31ec-11f0-a028-ca2a8e13dad8.jpg</filename>
+  <source>
+    <database>Unknown</database>
+    <annotation>Unknown</annotation>
+    <image>Unknown</image>
+  </source>
+  <size>
+    <width>1920</width>
+    <height>1080</height>
+    <depth></depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>thumbsdown</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1254.41</xmin>
+      <ymin>294.75</ymin>
+      <xmax>1601.38</xmax>
+      <ymax>906.95</ymax>
+    </bndbox>
+    <attributes>
+      <attribute>
+        <name>rotation</name>
+        <value>0.0</value>
+      </attribute>
+    </attributes>
+  </object>
+</annotation>

@@ -1,0 +1,9 @@
+names:
+- ThumbsUp
+- ThumbsDown
+- ThankYou
+- LiveLong
+nc: 4
+path: /Users/jay/Developer/final_prime/clone/TFODCourse/TFOD/Tensorflow/workspace/images
+train: train
+val: test
