@@ -77,7 +77,9 @@ The system recognizes four hand gestures:
 
 We used Computer Vision Annotation Tool (CVAT) deployed via Docker for annotating our dataset:
 
+
 ![Data Annotation Img](videos/data_Annotation.png)
+
 
 #### CVAT Setup
 
