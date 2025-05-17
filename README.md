@@ -1,4 +1,4 @@
-### Hand Gesture Recognition System
+### Hybrid YOLOV8 TensorFlow Realtime Target Detector
 
 A comprehensive computer vision system for real-time detection and classification of hand gestures using TensorFlow/Keras and YOLOv8.
 
@@ -76,6 +76,8 @@ The system recognizes four hand gestures:
 ### Annotation Process with CVAT
 
 We used Computer Vision Annotation Tool (CVAT) deployed via Docker for annotating our dataset:
+
+![Data Annotation Img](videos/data_annotation.jpeg)
 
 #### CVAT Setup
 
@@ -374,7 +376,7 @@ names: ['thumbsup', 'thumbsdown', 'thankyou', 'livelong']
 - **FPS**: ~20-30 FPS on standard CPU
 
 
-### Model Comparison
+### Core Models 
 
 | Aspect | TensorFlow/Keras Model | YOLOv8 Model
 |-----|-----|-----
