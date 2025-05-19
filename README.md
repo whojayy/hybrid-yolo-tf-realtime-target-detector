@@ -2,7 +2,7 @@
 
 A comprehensive computer vision system for real-time detection and classification of hand gestures using TensorFlow/Keras and YOLOv8.
 
-![Video Demo](videos/demo.gif)
+![Video Demo](demo.gif)
 
 
 
